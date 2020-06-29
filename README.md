@@ -1,2 +1,2 @@
 # chess-system-java
-A Chess gamae system made with Java. 
+A Chess game system made with Java. 
